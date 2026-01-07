@@ -1,4 +1,4 @@
-# Alpine Ascents - University Semester Project
+# Alpine Ascents - University short course Project
 
 Alpine Ascents is a web portal that I developed for my University Semester Project. The main goal of this project is to provide a reliable platform for mountaineering enthusiasts to find real and accurate information about various mountain peaks and trekking routes.
 
